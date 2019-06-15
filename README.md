@@ -1,5 +1,7 @@
 # NatProxy
 
+> 此处文档为0.0.8版本，为 https://jiajunhuang.com/natproxy 的镜像文档，更新可能不及时。最新文档请阅读 https://jiajunhuang.com/natproxy
+
 NatProxy是一个方便、快捷的内网穿透工具，借助natproxy，你可以远程访问在家里的电脑。例如，通过NatProxy你可以做到：
 
 - 远程访问在家里的笔记本电脑
